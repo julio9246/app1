@@ -17,7 +17,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Bom Negócio.com!</Text> 
       <Button
-         title="Gerar um número randômico"
+         title="Gerar um número randômico já alterado"
          onPress={geraNumeroAleatorio}/>
  
     </View>
